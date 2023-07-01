@@ -1,8 +1,8 @@
 # GHFollowers 
 
-###### THIS IS A GUIDED PROJECT CREATED AND TAUGHT BY SEAN ALLEN. 
+###### THIS IS A GUIDED PROJECT TAUGHT BY SEAN ALLEN. 
 ###### SEAN'S COURSES ARE AVAILABLE ON THE TEACHABLE PLATFORM. 
-###### FOLLOW HIM ON TWITTER @seanallen_dev. 
+###### https://seanallen.teachable.com/courses 
 
 ## Screenshots
 ![GHFollowers(1)](https://user-images.githubusercontent.com/82785695/187980204-ff74ea54-3ad9-405c-9c40-1c4b9d741537.png)
